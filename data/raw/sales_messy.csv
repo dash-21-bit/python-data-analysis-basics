@@ -1,0 +1,251 @@
+order_id,date,product,city,channel,quantity,price
+ORD-1000,03/01/2025,Camera,Manchester,ONLINE,3,99.99
+ORD-1001,03/01/2025,Filter,Leeds,online,1,49.99
+ORD-1002,2025/01/03,,Leeds,Online ,4,
+ORD-1003,2025-01-03,Lens,Birmingham,Online ,2,149.99
+ORD-1004,2025-01-03,Camera,Leeds,instore,1,199.99
+ORD-1005,,Filter,London,ONLINE,1,49.99
+ORD-1006,2025/01/03,Camera,Leeds,IN-STORE,4,£99.99
+ORD-1007,,Camera,,ONLINE,2,
+ORD-1008,03/01/2025,Filter,London,ONLINE,3,49.99
+ORD-1009,Jan 03 2025,Filter,Birmingham,Online ,,199.99
+ORD-1010,Jan 03 2025,Filter,,IN-STORE,,
+ORD-1011,2025-01-03,Filter,Leeds,online,two,49.99
+ORD-1012,2025/01/03,Bag,,instore,4,
+ORD-1013,2025/01/03,Filter,Birmingham,ONLINE,3,49.99
+ORD-1014,,Lens,,Online ,5,49.99
+ORD-1015,2025/01/03,Tripod,,instore,1,
+ORD-1016,2025-01-03,Lens,London,online,2,
+ORD-1017,03/01/2025,Tripod,London,ONLINE,4,
+ORD-1018,,Filter,London,ONLINE,3,199.99
+ORD-1019,2025-13-01,Tripod,Manchester,IN-STORE,1,
+ORD-1020,2025-01-03,Tripod,Manchester,online,two,149.99
+ORD-1021,Jan 03 2025,Filter,,in store,2,199.99
+ORD-1022,2025-01-03,Bag,Manchester,ONLINE,,£99.99
+ORD-1023,Jan 03 2025,Tripod,London,instore,4,99.99
+ORD-1024,2025-01-03,Filter,Manchester,online,,
+ORD-1025,2025-01-03,,Leeds,Online ,two,199.99
+ORD-1026,2025-13-01,Bag,Birmingham,in store,,£99.99
+ORD-1027,,Camera,,ONLINE,5,49.99
+ORD-1028,03/01/2025,Filter,London,online,5,49.99
+ORD-1029,2025-13-01,Filter,London,instore,5,49.99
+ORD-1030,03/01/2025,Lens,London,ONLINE,,149.99
+ORD-1031,2025-01-03,Camera,Manchester,in store,5,
+ORD-1032,Jan 03 2025,Camera,London,IN-STORE,3,99.99
+ORD-1033,2025/01/03,Filter,Manchester,ONLINE,two,
+ORD-1034,2025-13-01,Camera,,Online ,3,149.99
+ORD-1035,2025-01-03,Filter,,IN-STORE,two,49.99
+ORD-1036,2025-13-01,Tripod,Birmingham,Online ,,199.99
+ORD-1037,2025-13-01,Tripod,,online,two,149.99
+ORD-1038,,Camera,Birmingham,Online ,,99.99
+ORD-1039,03/01/2025,Filter,London,Online ,two,99.99
+ORD-1040,2025-01-03,Bag,London,IN-STORE,2,£99.99
+ORD-1041,,Bag,Birmingham,IN-STORE,two,99.99
+ORD-1042,,Lens,Birmingham,ONLINE,5,199.99
+ORD-1043,2025-01-03,Lens,London,instore,3,49.99
+ORD-1044,,Filter,Manchester,in store,5,99.99
+ORD-1045,2025/01/03,Tripod,Birmingham,in store,1,£99.99
+ORD-1046,Jan 03 2025,Filter,Birmingham,ONLINE,4,149.99
+ORD-1047,Jan 03 2025,,London,instore,5,149.99
+ORD-1048,Jan 03 2025,Filter,,ONLINE,3,199.99
+ORD-1049,,Tripod,Manchester,IN-STORE,5,£99.99
+ORD-1050,2025-01-03,Lens,London,Online ,2,49.99
+ORD-1051,Jan 03 2025,Bag,,,,£99.99
+ORD-1052,2025-13-01,Camera,Leeds,Online ,2,£99.99
+ORD-1053,2025-13-01,Tripod,Leeds,ONLINE,5,
+ORD-1054,,Filter,Leeds,instore,4,99.99
+ORD-1055,2025/01/03,Lens,,in store,,99.99
+ORD-1056,Jan 03 2025,Filter,Manchester,Online ,2,99.99
+ORD-1057,Jan 03 2025,Filter,Leeds,,1,99.99
+ORD-1058,2025/01/03,Filter,Leeds,in store,1,149.99
+ORD-1059,2025/01/03,Filter,,Online ,4,99.99
+ORD-1060,,Bag,London,in store,2,
+ORD-1061,2025/01/03,Bag,London,in store,2,49.99
+ORD-1062,,Bag,Birmingham,in store,3,49.99
+ORD-1063,2025-01-03,Camera,Manchester,online,2,99.99
+ORD-1064,03/01/2025,Tripod,Leeds,ONLINE,3,149.99
+ORD-1065,2025/01/03,Tripod,Birmingham,online,5,49.99
+ORD-1066,03/01/2025,Tripod,Manchester,instore,,£99.99
+ORD-1067,Jan 03 2025,Camera,,,3,
+ORD-1068,,Bag,Leeds,online,4,149.99
+ORD-1069,Jan 03 2025,Filter,Birmingham,instore,two,
+ORD-1070,Jan 03 2025,Tripod,Manchester,IN-STORE,4,99.99
+ORD-1071,2025/01/03,Lens,London,in store,2,149.99
+ORD-1072,,Camera,,Online ,1,99.99
+ORD-1073,03/01/2025,Bag,Leeds,online,1,149.99
+ORD-1074,2025-13-01,Filter,,IN-STORE,4,£99.99
+ORD-1075,2025-13-01,Camera,London,IN-STORE,1,£99.99
+ORD-1076,2025-01-03,Lens,,instore,5,149.99
+ORD-1077,2025-13-01,Filter,London,IN-STORE,1,49.99
+ORD-1078,Jan 03 2025,Camera,Manchester,instore,3,199.99
+ORD-1079,2025-01-03,Bag,Manchester,online,4,199.99
+ORD-1080,Jan 03 2025,Lens,Manchester,Online ,1,
+ORD-1081,Jan 03 2025,Bag,Leeds,IN-STORE,two,
+ORD-1082,03/01/2025,Tripod,London,IN-STORE,,49.99
+ORD-1083,2025/01/03,Filter,Leeds,IN-STORE,1,99.99
+ORD-1084,Jan 03 2025,Lens,,ONLINE,two,99.99
+ORD-1085,2025-13-01,Tripod,Manchester,online,2,149.99
+ORD-1086,Jan 03 2025,Lens,Leeds,IN-STORE,5,
+ORD-1087,,Filter,Birmingham,online,1,99.99
+ORD-1088,Jan 03 2025,Lens,,online,two,99.99
+ORD-1089,Jan 03 2025,Bag,Leeds,online,4,149.99
+ORD-1090,2025-01-03,Bag,Birmingham,ONLINE,4,
+ORD-1091,Jan 03 2025,Bag,,online,,
+ORD-1092,03/01/2025,Bag,Manchester,Online ,3,
+ORD-1093,,Filter,London,ONLINE,2,149.99
+ORD-1094,Jan 03 2025,Camera,Leeds,online,,99.99
+ORD-1095,03/01/2025,Bag,Leeds,Online ,4,
+ORD-1096,2025/01/03,Camera,Birmingham,in store,3,
+ORD-1097,2025/01/03,Bag,London,in store,5,199.99
+ORD-1098,,Tripod,London,instore,4,99.99
+ORD-1099,2025-13-01,Bag,London,in store,1,99.99
+ORD-1100,03/01/2025,Camera,,in store,1,£99.99
+ORD-1101,,Lens,Birmingham,instore,,199.99
+ORD-1102,2025-01-03,Lens,Leeds,instore,1,
+ORD-1103,,Camera,Leeds,online,two,£99.99
+ORD-1104,2025/01/03,Camera,Birmingham,online,3,149.99
+ORD-1105,Jan 03 2025,Tripod,London,Online ,1,
+ORD-1106,2025-01-03,Bag,Birmingham,in store,3,£99.99
+ORD-1107,,Camera,Leeds,IN-STORE,5,149.99
+ORD-1108,2025-13-01,Bag,Leeds,online,2,199.99
+ORD-1109,,Bag,Birmingham,online,5,£99.99
+ORD-1110,03/01/2025,Lens,London,instore,two,149.99
+ORD-1111,2025/01/03,Tripod,Manchester,ONLINE,,49.99
+ORD-1112,03/01/2025,Lens,Birmingham,ONLINE,4,99.99
+ORD-1113,2025/01/03,Lens,London,IN-STORE,two,199.99
+ORD-1114,Jan 03 2025,Tripod,London,ONLINE,,£99.99
+ORD-1115,2025/01/03,Camera,Birmingham,instore,1,199.99
+ORD-1116,2025-01-03,Lens,Manchester,ONLINE,2,199.99
+ORD-1117,Jan 03 2025,Camera,,ONLINE,3,£99.99
+ORD-1118,Jan 03 2025,Camera,Manchester,Online ,5,99.99
+ORD-1119,Jan 03 2025,Bag,,ONLINE,,99.99
+ORD-1120,Jan 03 2025,Lens,Manchester,ONLINE,3,99.99
+ORD-1121,Jan 03 2025,Lens,,ONLINE,3,49.99
+ORD-1122,2025-01-03,Camera,London,ONLINE,,
+ORD-1123,03/01/2025,Tripod,Manchester,instore,2,
+ORD-1124,03/01/2025,Filter,Manchester,IN-STORE,two,99.99
+ORD-1125,2025-13-01,Tripod,Manchester,IN-STORE,two,99.99
+ORD-1126,Jan 03 2025,Filter,Manchester,ONLINE,1,199.99
+ORD-1127,2025-13-01,Filter,,ONLINE,two,£99.99
+ORD-1128,,Bag,Leeds,ONLINE,1,199.99
+ORD-1129,2025-13-01,Camera,London,IN-STORE,5,£99.99
+ORD-1130,,Bag,,instore,4,49.99
+ORD-1131,2025/01/03,Tripod,Leeds,in store,2,199.99
+ORD-1132,Jan 03 2025,Lens,Birmingham,IN-STORE,2,£99.99
+ORD-1133,2025-13-01,Lens,London,instore,1,
+ORD-1134,2025/01/03,Bag,Manchester,IN-STORE,5,149.99
+ORD-1135,2025/01/03,Camera,Birmingham,instore,3,49.99
+ORD-1136,2025-01-03,Filter,,ONLINE,,
+ORD-1137,03/01/2025,Lens,Birmingham,IN-STORE,3,49.99
+ORD-1138,Jan 03 2025,Camera,Manchester,ONLINE,5,99.99
+ORD-1139,03/01/2025,Filter,,online,1,99.99
+ORD-1140,2025/01/03,Bag,Leeds,instore,4,199.99
+ORD-1141,2025-01-03,Filter,Leeds,instore,,149.99
+ORD-1142,,Tripod,London,IN-STORE,3,149.99
+ORD-1143,2025/01/03,Tripod,,,two,£99.99
+ORD-1144,Jan 03 2025,Camera,Birmingham,instore,4,
+ORD-1145,2025/01/03,Lens,London,instore,4,£99.99
+ORD-1146,,Filter,Manchester,in store,two,149.99
+ORD-1147,2025/01/03,Camera,,instore,2,149.99
+ORD-1148,03/01/2025,Tripod,Birmingham,Online ,2,
+ORD-1149,Jan 03 2025,Bag,Leeds,instore,two,
+ORD-1150,Jan 03 2025,Lens,Birmingham,Online ,4,49.99
+ORD-1151,2025-01-03,Filter,Manchester,IN-STORE,4,199.99
+ORD-1152,Jan 03 2025,Camera,,instore,5,199.99
+ORD-1153,2025-13-01,Filter,London,IN-STORE,5,199.99
+ORD-1154,2025-01-03,Lens,Manchester,instore,,99.99
+ORD-1155,Jan 03 2025,Tripod,Birmingham,IN-STORE,3,199.99
+ORD-1156,,Lens,Manchester,IN-STORE,1,
+ORD-1157,,Filter,London,IN-STORE,1,
+ORD-1158,2025/01/03,Bag,London,instore,,49.99
+ORD-1159,2025-13-01,Filter,Manchester,ONLINE,,199.99
+ORD-1160,2025-01-03,Bag,London,Online ,2,99.99
+ORD-1161,03/01/2025,Filter,Manchester,ONLINE,3,
+ORD-1162,Jan 03 2025,Filter,London,ONLINE,4,49.99
+ORD-1163,Jan 03 2025,Bag,London,instore,2,149.99
+ORD-1164,2025-13-01,Bag,Leeds,IN-STORE,two,199.99
+ORD-1165,2025/01/03,Tripod,Birmingham,online,,199.99
+ORD-1166,2025-13-01,Lens,Manchester,Online ,3,199.99
+ORD-1167,Jan 03 2025,Bag,Birmingham,online,4,49.99
+ORD-1168,,Camera,,online,two,£99.99
+ORD-1169,,Bag,London,ONLINE,4,199.99
+ORD-1170,2025/01/03,Filter,,instore,4,49.99
+ORD-1171,2025-13-01,Filter,Leeds,online,1,199.99
+ORD-1172,03/01/2025,Lens,Leeds,online,5,149.99
+ORD-1173,2025-13-01,Lens,Manchester,instore,5,
+ORD-1174,2025-01-03,Lens,Birmingham,ONLINE,1,149.99
+ORD-1175,2025/01/03,Lens,London,online,3,
+ORD-1176,,Bag,London,Online ,1,£99.99
+ORD-1177,Jan 03 2025,Lens,Birmingham,instore,4,
+ORD-1178,Jan 03 2025,Camera,Birmingham,IN-STORE,1,149.99
+ORD-1179,2025-13-01,Tripod,Leeds,ONLINE,4,149.99
+ORD-1180,2025-01-03,Tripod,,IN-STORE,3,49.99
+ORD-1181,,Tripod,Leeds,IN-STORE,4,49.99
+ORD-1182,2025/01/03,Camera,Manchester,ONLINE,,199.99
+ORD-1183,03/01/2025,Filter,Leeds,online,2,49.99
+ORD-1184,2025/01/03,Filter,London,ONLINE,4,149.99
+ORD-1185,,Lens,Birmingham,Online ,1,49.99
+ORD-1186,,Lens,Leeds,Online ,5,149.99
+ORD-1187,,Bag,London,ONLINE,4,49.99
+ORD-1188,,Filter,,IN-STORE,3,99.99
+ORD-1189,03/01/2025,Tripod,Manchester,Online ,two,99.99
+ORD-1190,2025/01/03,Filter,London,instore,1,49.99
+ORD-1191,,Bag,,online,2,149.99
+ORD-1192,Jan 03 2025,Filter,,Online ,two,99.99
+ORD-1193,03/01/2025,Lens,London,Online ,3,£99.99
+ORD-1194,03/01/2025,Lens,London,ONLINE,5,149.99
+ORD-1195,2025-13-01,Filter,,Online ,2,£99.99
+ORD-1196,2025/01/03,Camera,Manchester,online,,
+ORD-1197,Jan 03 2025,Bag,,IN-STORE,,149.99
+ORD-1198,Jan 03 2025,Camera,London,in store,4,199.99
+ORD-1199,2025-13-01,Lens,Leeds,Online ,two,149.99
+ORD-1200,Jan 03 2025,Tripod,London,online,1,149.99
+ORD-1201,03/01/2025,Lens,,ONLINE,3,99.99
+ORD-1202,03/01/2025,Camera,Manchester,in store,5,199.99
+ORD-1203,Jan 03 2025,Bag,Birmingham,instore,1,49.99
+ORD-1204,03/01/2025,Camera,Leeds,online,5,
+ORD-1205,2025-01-03,Filter,Birmingham,instore,,
+ORD-1206,2025-13-01,Filter,,Online ,2,
+ORD-1207,2025-13-01,Bag,,in store,2,
+ORD-1208,2025-13-01,Filter,Birmingham,instore,3,
+ORD-1209,2025-13-01,Lens,Birmingham,ONLINE,1,199.99
+ORD-1210,2025-13-01,Filter,Leeds,IN-STORE,,
+ORD-1211,,Filter,Leeds,,two,£99.99
+ORD-1212,03/01/2025,Lens,Leeds,Online ,4,£99.99
+ORD-1213,2025/01/03,Camera,London,instore,2,
+ORD-1214,,Bag,,IN-STORE,5,149.99
+ORD-1215,2025-13-01,Filter,Leeds,Online ,2,149.99
+ORD-1216,2025-13-01,Tripod,Leeds,IN-STORE,4,149.99
+ORD-1217,03/01/2025,Filter,Leeds,in store,two,149.99
+ORD-1218,03/01/2025,Bag,Birmingham,ONLINE,4,99.99
+ORD-1219,03/01/2025,Camera,,ONLINE,5,99.99
+ORD-1220,2025-01-03,Camera,Leeds,IN-STORE,,199.99
+ORD-1221,,Tripod,Leeds,ONLINE,4,199.99
+ORD-1222,,Camera,,Online ,5,£99.99
+ORD-1223,03/01/2025,Tripod,Manchester,in store,two,199.99
+ORD-1224,2025/01/03,Camera,Birmingham,instore,5,49.99
+ORD-1225,2025-01-03,Tripod,,in store,3,99.99
+ORD-1226,03/01/2025,Camera,Birmingham,IN-STORE,5,£99.99
+ORD-1227,2025-01-03,Filter,Birmingham,online,4,£99.99
+ORD-1228,2025/01/03,Lens,,Online ,4,149.99
+ORD-1229,2025/01/03,Tripod,Manchester,ONLINE,1,199.99
+ORD-1230,2025-13-01,Lens,Manchester,ONLINE,3,149.99
+ORD-1231,Jan 03 2025,Filter,Birmingham,in store,,
+ORD-1232,,Filter,Manchester,instore,4,
+ORD-1233,03/01/2025,Filter,London,instore,5,99.99
+ORD-1234,2025-01-03,Filter,Leeds,online,5,199.99
+ORD-1235,2025/01/03,Bag,Birmingham,ONLINE,1,199.99
+ORD-1236,,Lens,Manchester,instore,1,49.99
+ORD-1237,Jan 03 2025,Bag,Birmingham,in store,4,199.99
+ORD-1238,2025-13-01,Lens,Manchester,Online ,5,199.99
+ORD-1239,Jan 03 2025,Lens,Leeds,ONLINE,,
+ORD-1240,2025-01-03,Lens,London,ONLINE,two,49.99
+ORD-1241,,Camera,London,Online ,1,49.99
+ORD-1242,03/01/2025,Camera,Leeds,in store,2,
+ORD-1243,,Tripod,,IN-STORE,5,
+ORD-1244,2025-01-03,Filter,London,in store,3,149.99
+ORD-1245,,Bag,,in store,1,149.99
+ORD-1246,Jan 03 2025,Tripod,Birmingham,in store,2,
+ORD-1247,2025-13-01,Bag,Manchester,instore,4,199.99
+ORD-1248,,Camera,Leeds,IN-STORE,1,
+ORD-1249,,Camera,Manchester,Online ,two,

@@ -1,0 +1,22 @@
+order_id,date,product,city,channel,quantity,price,total
+ORD-1000,2025-01-03,Camera,Manchester,online,3.0,99.99,299.96999999999997
+ORD-1001,2025-01-03,Filter,Leeds,online,1.0,49.99,49.99
+ORD-1008,2025-01-03,Filter,London,online,3.0,49.99,149.97
+ORD-1028,2025-01-03,Filter,London,online,5.0,49.99,249.95000000000002
+ORD-1064,2025-01-03,Tripod,Leeds,online,3.0,149.99,449.97
+ORD-1073,2025-01-03,Bag,Leeds,online,1.0,149.99,149.99
+ORD-1100,2025-01-03,Camera,unknown,in store,1.0,99.99,99.99
+ORD-1112,2025-01-03,Lens,Birmingham,online,4.0,99.99,399.96
+ORD-1137,2025-01-03,Lens,Birmingham,in store,3.0,49.99,149.97
+ORD-1139,2025-01-03,Filter,unknown,online,1.0,99.99,99.99
+ORD-1172,2025-01-03,Lens,Leeds,online,5.0,149.99,749.95
+ORD-1183,2025-01-03,Filter,Leeds,online,2.0,49.99,99.98
+ORD-1193,2025-01-03,Lens,London,online,3.0,99.99,299.96999999999997
+ORD-1194,2025-01-03,Lens,London,online,5.0,149.99,749.95
+ORD-1201,2025-01-03,Lens,unknown,online,3.0,99.99,299.96999999999997
+ORD-1202,2025-01-03,Camera,Manchester,in store,5.0,199.99,999.95
+ORD-1212,2025-01-03,Lens,Leeds,online,4.0,99.99,399.96
+ORD-1218,2025-01-03,Bag,Birmingham,online,4.0,99.99,399.96
+ORD-1219,2025-01-03,Camera,unknown,online,5.0,99.99,499.95
+ORD-1226,2025-01-03,Camera,Birmingham,in store,5.0,99.99,499.95
+ORD-1233,2025-01-03,Filter,London,in store,5.0,99.99,499.95
