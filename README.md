@@ -90,3 +90,21 @@ python-data-analysis-basics/
 ├── requirements.txt
 ├── pyproject.toml
 └── README.md
+
+This structure is intentional:
+- `data/raw` is never edited manually.
+- `data/processed` stores cleaned outputs.
+- `reports` stores human-readable results.
+- `src` keeps reusable logic separate from runner scripts.
+
+---
+
+## 4. Installation (Terminal Only)
+
+### 4.1 Create and activate virtual environment
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+```
+
