@@ -161,33 +161,31 @@ Each dataset has its own runner script:
 ## 7. Running the Iris Analysis
    Run:
    ```
-python scripts/run_iris_analysis.py
-```
-Outputs created
+	python scripts/run_iris_analysis.py
+   ```
+Outputs created:
+
 	1.	Cleaned dataset
-   ``
 
 	•	data/processed/iris_clean.csv
-   ``
+	
 	2.	Figures:
-   `
 	•	reports/figures/iris_petal_length_hist.png
 	•	reports/figures/iris_sepal_vs_petal.png
-   `
 	3.	Summary report:
-```
 	•	reports/iris_summary.md
-```
+	
 ## 8. Running the Messy sales analysis
 Run:
 ```
 python scripts/run_sales_analysis.py
 ```
+
 Outputs created
+	
 	1.	Cleaned dataset:
 
 	•	data/processed/sales_clean.csv
-
 	2.	Figures:
 
 	•	reports/figures/sales_total_hist.png
